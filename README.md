@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, This is Shreya Sinha</h1>
 <h3 align="center">Turning caffeine into code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shriya-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="shriya-sinha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriya-sinha" alt="shriya-sinha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shreya_sin72637" target="blank"><img src="https://img.shields.io/twitter/follow/shreya_sin72637?logo=twitter&style=for-the-badge" alt="shreya_sin72637" /></a> </p>
-
 - 🐱 A Sophomore from Indian **Institute of Technology-BHU (Varanasi)** pursuing a Bachelor of Technology.
   ✨
 - 🔭 I’m currently getting my hands dirty on **DSA and Open source projects**
