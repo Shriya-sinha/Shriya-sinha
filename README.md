@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript and Next.JS**
 
-- 📫 Reach me at **Sinhashreya2679@gmail.com**
+- 📫 Reach me at **sinhashreya2679@gmail.com**
 
 - ⚡ Fun fact: **I love to write poems**
 
