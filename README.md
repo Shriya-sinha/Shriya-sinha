@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriya-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="shriya-sinha" /> </p>
 
-- 🐱 A Sophomore from Indian **Institute of Technology-BHU (Varanasi)** pursuing a Bachelor of Technology.
+- 🐱 A pre-final year student from Indian **Institute of Technology-BHU (Varanasi)** pursuing a Bachelor of Technology.
   ✨
 - 🔭 I’m currently getting my hands dirty on **DSA and Open source projects**
 
